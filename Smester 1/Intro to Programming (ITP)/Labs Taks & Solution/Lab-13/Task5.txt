@@ -1,0 +1,10 @@
+/* Output of Task 5 */
+
+3 3
+3 9
+3 3
+3 3
+0x1b7e2e0 3
+
+
+//The value 0x1b7e2e0 is the memory address stored in ptr_a after the deletion of the memory it was pointing to. The 3 printed after it is the value at that address, which was not reset to nullptr after the deletion.
