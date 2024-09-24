@@ -5,10 +5,10 @@ Welcome to the **A GUIDE to Introduction to Programming** repository! This repo 
 ## Good Resources
 
 ### 1. Best  YouTube Resource
-- [https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=ZuUneID1wdpGfx21](#)
+- [C++ best playlist](https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=ZuUneID1wdpGfx21)
 - 
 ### 2. Documentation
-- [https://www.geeksforgeeks.org/c-plus-plus/?ref=shm](#)
+- [C++ best Reading & tutorial ]([https://www.geeksforgeeks.org/c-plus-plus/?ref=shm)
 
 ## How to Follow This Repo?
 
