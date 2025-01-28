@@ -12,6 +12,7 @@ Welcome to the **OOP Course Repository**! This is a curated collection of resour
 
 ## 🔗 Extra Resources
 - **C++ Docs**: [C++ Reference](https://www.geeksforgeeks.org/c-plus-plus/?ref=outind)
+- **C++ OOP imp quizes for exams**: [quizes](https://www.geeksforgeeks.org/c-plus-plus-gq/)
 
 
 Feel free to explore, contribute, and use these resources to ace your OOP course! 🚀
