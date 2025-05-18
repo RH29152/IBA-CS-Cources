@@ -6,7 +6,7 @@ Welcome to the **OOP Course Repository**! This is a curated collection of resour
 - **Labs**: Lab exercises and solutions.
 - **Practice Material**: Additional problems and coding challenges.
 - **Books**: Recommended textbooks for OOP.
-- **Documentation**: Useful links for Java, C++, and Python.
+- **Documentation**: Useful links for C++.
 
 ---
 
