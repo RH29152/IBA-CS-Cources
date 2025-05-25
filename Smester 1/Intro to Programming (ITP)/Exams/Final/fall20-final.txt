@@ -1,0 +1,62 @@
+Instructions
+    The exam is open book. You may use any reference but cannot Google the exam questions.
+    You are required to attend the Zoom meeting for the whole duration of the exam. You may leave the meeting after submitting the final exam on LMS.
+    Use your phone to connect to Zoom meeting. Follow the instructions given at the following link: https://cbtf.engr.illinois.edu/cbtf-online/students/phone.html
+    In case of any problem with the internet or other hardware issue, call me immediately at 0347-8084851. Also make use of Dropbox facility so that I have a record of your work before the end of exam.
+
+
+===========================
+        Part A
+============================
+
+Exercise 1:
+Write a Java function for removing the first and last word of any string.
+
+(Example: "Winter break! Woo! Hoo!" would return "break! Woo!"). You should only need the following methods: s.length(), s.charAt(), s.indexOf(), s.lastIndexOf(), s.substring()
+
+
+Exercise 2:
+The Fibonacci sequence is defined such that a number in the sequence is the sum of the previous two number in the sequence such that the first two numbers are 0, 1.
+The Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, ...
+Write a function, fib that takes an integer as input and displays the Fibonacci sequence to the first value greater than the input.
+Example: fib(6) would output 0, 1, 1, 2, 3, 5, 8
+
+
+Exercise 3
+Write a static method searchSorted, which takes as input (i.e., parameters) an array of integers sorted in ascending order and an integer target. The method returns true if there is at least one element of the array equal to the target. The method returns false otherwise. Use the fact that the array is sorted to possibly exit the search early.
+
+
+===========================
+        Part B
+============================
+Exercise 1:
+A user gets the current time of a watch in the 24 hour format like this:
+00:00:00
+So if the time is 11pm the user will get the time as
+23:00:00
+The clock however sometimes runs fast and sometimes it runs slow by a minimum 0 seconds and a maximum of 59 seconds. The user needs to adjust the time by writing a function to add or subtract seconds from the original time. You are going to write this function, TimeManagement, because unfortunately you are this user. It will accept two parameters, a String, time, and an integer, correction to make the necessary adjustments and return the correct time as String in the correct time format..
+
+Examples
+    TimeManagement("23:00:50", 17) returns "23:01:07"
+    TimeManagement("00:00:00", -10) returns "23:59:50"
+
+
+
+Exercise 2:
+Write a method that returns true if and only if the input string is palindrome (A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar or the number 10201.) Your method should work for sentence palindromes. (
+In sentence-length palindromes, allowances are made for adjustments to capital letters, punctuation, and word dividers, such as "A man, a plan, a canal, Panama!", "Was it a car or a cat I saw?" or "No 'x' in Nixon")
+
+
+
+===========================
+        Part C
+============================
+Exercise 1:
+Create a function digitRoot() that takes a number and returns one digit that is the result of summing all the digits of the input number. When the sum of the digits consists of more than one digit, repeat summing until you get one digit.
+
+Examples
+digitRoot(123) returns 6    // 1 + 2 + 3 = 6
+
+digitRoot(999888777L) returns 9  //9+9+9+8+8+8+7+7+7 = 72   //7+2 = 9
+
+digitRoot(1238763636555555555L) returns 9
